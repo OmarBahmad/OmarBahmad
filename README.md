@@ -40,7 +40,7 @@
 <table align="center">  
   <row> 
     <td>
-      <img height='225' src='https://github-readme-stats.vercel.app/api/top-langs/?username=OmarBahmadlayout=compact&theme=react&hide=html,css,handlebars'>
+      <img height='225' src='https://github-readme-stats.vercel.app/api/top-langs/?username=OmarBahmad&layout=compact&theme=react&hide=html,css,handlebars'>
     </td>
   </row>
 </table>
